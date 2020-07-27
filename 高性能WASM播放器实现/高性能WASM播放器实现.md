@@ -14,7 +14,7 @@
 其中比较有代表性的是腾讯IMWeb团队写的[《复杂帧动画之移动端Video采坑实现》]()。我们可以看到对于复杂的帧动画而言，传统的动画技术方案例如：Lottie、Vivus等，由于技术上的原因是无法完全复原复杂帧动画效果的，唯独视频这一方式，不管在文件体积、渲染性能以及设计自由度上都有无可比拟的优势。但视频方案在HTML5上却遭受了非常多的阻力。
 
 为了解决这一系列的问题，依靠在WASM和音视频上的浅薄积累，我编写了[WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)来解决相关的问题，目前有非常多的安防监控、直播及短视频公司使用[WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)完成了自己的业务开发以及解码内核的定制化，并取得了非常好的线上效果。目前WXInlinePlayer的使用场景包括：
-* 沉浸式短视频产品（Web版抖音）
+* 沉浸式短视频产品（Web版类抖音产品）
 * H5复杂视频动画播放
 * 无插件化安防监控
 
