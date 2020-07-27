@@ -15,6 +15,11 @@
 
 为了解决这一系列的问题，依靠在WASM和音视频上的浅薄积累，我编写了[WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)来解决相关的问题，目前有非常多的安防监控、直播及短视频公司使用[WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)完成了自己的业务开发以及解码内核的定制化，并取得了非常好的线上效果。
 
+目前WXInlinePlayer的使用场景包括：
+* 沉浸式短视频产品（Web版抖音）
+* 安防监控
+* H5复杂视频动画播放
+
 <div align=center>
     <img src="./images/pic1.gif" height="500">
     <p style="font-size:12px;color:gray;">使用WXInlinePlayer实现类抖音产品</p>
