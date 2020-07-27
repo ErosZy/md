@@ -52,7 +52,7 @@
     <p style="font-size:12px;color:gray;">文件体积为WASM与相关JS文件总和</p>
 </div>
 
-可以看到，分离后的WXInlinePlayer解码器在压缩后相比其他实现有接近5倍的文件体积的减小。同时，WXInlinePlayer也依靠更轻量的解码和渲染架构，在H265的播放整体性能与内存占用上相比其余实现也有50%以上的提升：
+可以看到，分离后的WXInlinePlayer解码器在压缩后相比其他实现有接近5倍的文件体积的减小。同时，WXInlinePlayer也依靠更轻量的解码和渲染架构，在H265的播放整体性能与内存占用上相比其余实现也有30%以上的提升：
 
 <div align=center>
     <img src="./images/pic4.png" height="200">
