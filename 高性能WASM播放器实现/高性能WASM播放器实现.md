@@ -151,7 +151,7 @@ player.on('performance', ({cost, average})=>{
 
 #### 直播支持
 
-直播由于良好的互动性，因此被非常多的产品集成及使用，对于一个播放器而言，直播能力的支持也是必不可少的。由于在音频播放这块我们一般使用AudioContext，但对于目前而言，AudioContext还无法很好的支持LiveStream的音频解码能力，因此WXInlinePlayer使用了[Multi Source Nodes](https://github.com/qiaozi-tech/WXInlinePlayer/blob/master/src/sound/browser.js#L219)的方式来进行了音频LiveStream的支持，当然，这块也可以进一步优化，预计后期将会提升为AudioWorklet的方式来进行相关支持。
+直播由于良好的互动性，因此被非常多的产品集成及使用，对于一个播放器而言，直播能力的支持也是必不可少的。在音频播放这块我们一般使用AudioContext，但可惜的是，目前而言AudioContext还无法很好的支持LiveStream的音频解码能力，因此WXInlinePlayer使用了[Multi Source Nodes](https://github.com/qiaozi-tech/WXInlinePlayer/blob/master/src/sound/browser.js#L219)的方式来进行了音频LiveStream的支持，当然，这块也可以进一步优化，预计后期将会提升为AudioWorklet的方式来进行相关支持。
 
 ### 更多
 
