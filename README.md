@@ -6,3 +6,4 @@
   * [深入浅出动态化SSR服务（三）.md](https://github.com/ErosZy/md/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%8A%A8%E6%80%81%E5%8C%96SSR%E6%9C%8D%E5%8A%A1/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%8A%A8%E6%80%81%E5%8C%96SSR%E6%9C%8D%E5%8A%A1%EF%BC%88%E4%B8%89%EF%BC%89.md)
 * [InfoQ - WebAssembly专栏](https://github.com/ErosZy/md/tree/master/WebAssembly%E4%B8%93%E6%A0%8F)
    * [1. 浅述 WebAssembly 历史.md](https://github.com/ErosZy/md/blob/master/WebAssembly%E4%B8%93%E6%A0%8F/1.%E6%B5%85%E8%BF%B0WebAssembly%E5%8E%86%E5%8F%B2.md)
+   * [2. Emscripten使用入门](https://github.com/ErosZy/md/blob/master/WebAssembly%E4%B8%93%E6%A0%8F/2.Emscripten%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8.md)
