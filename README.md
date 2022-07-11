@@ -10,6 +10,7 @@
    * [3. 打造基于 WASM 的高性能安全沙盒](https://github.com/ErosZy/md/blob/master/WebAssembly%E4%B8%93%E6%A0%8F/3.%20%E6%89%93%E9%80%A0%E5%9F%BA%E4%BA%8EWASM%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%AE%89%E5%85%A8%E6%B2%99%E7%9B%92.md)
 * [前端之巅公众号 - 深入浅出V8优化](https://github.com/ErosZy/md/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAV8%E4%BC%98%E5%8C%96)（2022-06-18）
    * [1. Smi和HeapNumber](https://github.com/ErosZy/md/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAV8%E4%BC%98%E5%8C%96/1.%20Smi%E5%92%8CHeapNumber.md)
+   * [2. 字符串的优化](https://github.com/ErosZy/md/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAV8%E4%BC%98%E5%8C%96/2.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%BC%98%E5%8C%96.md)
 
 
 ### 文章协议
